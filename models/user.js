@@ -7,9 +7,6 @@ const userSchema = new Schema({
   password: String
 });
 
-//asd
-
-
 // create model
 
 
